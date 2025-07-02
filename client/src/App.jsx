@@ -1,13 +1,13 @@
 import './App.css'
-import Signup from './pages/Signup'
-import SignIn from './pages/SignIn'
+import AppRoutes from './routes/AppRoutes';
 
-function App() {
+export default function App() {
 
   return (
     <>
+    <AppRoutes/>
     </>
   )
 }
 
-export default App
+
