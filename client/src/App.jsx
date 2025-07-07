@@ -1,11 +1,11 @@
 import './App.css'
-import Signup from './pages/Signup'
+import TweekLandingSplit from './pages/TweekLandingSplit'
 
 function App() {
 
   return (
     <>
-      <Signup/>
+      <TweekLandingSplit/>
     </>
   )
 }
